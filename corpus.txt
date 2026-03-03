@@ -1,0 +1,34 @@
+Patient is a 68-year-old male with a history of hypertension and type 2 diabetes presenting with chest pain for 2 days.
+Vital signs: BP 148/92, HR 88, RR 16, Temp 98.6 F, SpO2 96% on room air.
+ECG shows ST elevation in leads V2-V4 consistent with anterior STEMI.
+Patient taken emergently to cath lab for PCI.
+Post-procedure: successful deployment of drug-eluting stent in LAD.
+Discharge plan: aspirin 81mg daily, clopidogrel 75mg daily, atorvastatin 40mg daily, metoprolol 50mg BID.
+Follow-up with cardiology in 1 week.
+
+62-year-old female with chronic obstructive pulmonary disease admitted for acute exacerbation.
+Presents with increased shortness of breath, cough with yellow sputum, and wheezing.
+ABG: pH 7.32, PaCO2 52, PaO2 68 on 2L NC.
+Chest X-ray shows hyperinflation and right lower lobe infiltrate.
+Started on IV ceftriaxone, azithromycin, methylprednisolone, and nebulized albuterol/ipratropium.
+Improved clinically, transitioned to oral antibiotics and prednisone taper.
+Discharged home with home oxygen evaluation.
+
+45-year-old male with alcohol use disorder presenting with abdominal pain, nausea, vomiting.
+Labs: AST 220, ALT 180, bilirubin 3.2, lipase 1200.
+CT abdomen: acute pancreatitis with peripancreatic fluid collection.
+NPO, IV fluids, pain control with hydromorphone PCA.
+Gradual improvement, diet advanced to clears then low-fat.
+Counseling on alcohol cessation provided.
+
+78-year-old female status post hip fracture repair, now with confusion and fever.
+Urinalysis positive for leukocytes and nitrites, culture growing E. coli.
+Diagnosed with UTI, started on IV cefepime.
+Mental status improved after 48 hours of antibiotics.
+Discharged to skilled nursing facility with oral cephalexin for 7 days.
+
+Patient is a 55-year-old woman with breast cancer s/p mastectomy and chemotherapy, now presenting with fatigue and dyspnea.
+Echo shows EF 35%, global hypokinesis.
+Started on carvedilol, lisinopril, spironolactone for new HF.
+Cardio-oncology follow-up scheduled.
+
